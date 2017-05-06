@@ -1,5 +1,6 @@
 var isArthuro=false;
-var weapon;
+var isking=true;
 
-console.log("Es Arthuro?" + (isArthuro? "Excalibur" : "other"));
+
+console.log("si el rey es Arturo su arma es:"+(isArthuro && isking? "Excalibur":"cuchillo de cocina"))
 
