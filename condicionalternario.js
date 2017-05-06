@@ -1,5 +1,5 @@
 var isArthuro=false;
 var weapon;
-weapon = isArthuro ? "Excalibur":"other";
-console.log("Es Arthuro?"+ weapon)
+
+console.log("Es Arthuro?" + (isArthuro? "Excalibur" : "other"));
 
