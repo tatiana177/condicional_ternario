@@ -1,4 +1,4 @@
-var isArthuro=false;
+var isArthuro=true;
 var isking=true;
 
 
